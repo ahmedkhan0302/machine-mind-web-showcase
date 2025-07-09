@@ -311,7 +311,7 @@ const HousePrices = () => {
             on pricing, with waterfront properties typically commanding premium prices while rural areas 
             offer more affordable options.
           </p>
-        </div>
+        </motion.div>
       </div>
     </div>
   );
